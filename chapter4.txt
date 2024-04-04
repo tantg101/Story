@@ -1,1 +1,3 @@
-This is new chapter 4 in main branch
+A new chapter 4 in main branch. Changed by tantg88888 pencil and edit in place. The commit changes GUI
+woah
+Another computer to change this, after clone
